@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile.." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kate+Alina's+Github+Profile.." alt="Typing SVG"/>
 </p>
 
 <!-- Social Media Badges -->
